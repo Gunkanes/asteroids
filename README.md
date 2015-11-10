@@ -1,4 +1,5 @@
 # HTML5 Asteroids Gunkanes
+# Generate a merge conflict
 
 This game was created Doug McInnes. His code can be found
 [here](https://github.com/dmcinnes/HTML5-Asteroids), and you can play his
