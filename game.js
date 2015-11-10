@@ -2,6 +2,7 @@
 //
 // Copyright (c) 2010 Doug McInnes
 //
+// Hard-mode
 
 KEY_CODES = {
   32: 'space',
